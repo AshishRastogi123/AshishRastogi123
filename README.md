@@ -1,15 +1,13 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Ashish Kumar Rastogi</h1>
 <h3 align="center">Welcome to my Github Profile</h3>
-<p align="left"> - 🔭 I’m currently pursuing my Btech in Electrical Engineering from NIT Jamshedpur</p>
-<p align="left">- 🌱 I’m currently learning Web devlopment</p>
-<p align="left">- 👯 I’m looking to collaborate on Web projects</p>
-<p align="left">- 💬 Ask me about cpp, open source or any other tech related stuffs</p>
-<p align="left">- 📫 How to reach me: Email - ashish.rastogi183@gmail.com , Contact info - 7903791911</p>
+<p align="left"> - 🔭 I’m currently pursuing my Master's in Computer Application from Invertis University</p>
+<p align="left">- 🌱 I’m currently learning Data Analytics , Machine Learning, Deep Learning , Artificial Inteigence and Web devlopment</p>
+<p align="left">- 👯 I’m looking to collaborate on Data Analytics , Machine Learning, Deep Learning , Artificial Inteigence and Web devlopment</p>
+<p align="left">- 💬 Ask me about Deep Learning and machine Learning, open source or any other tech related stuffs</p>
+<p align="left">- 📫 How to reach me: Email - rastogiashish836@gmail.com , Contact info - 8445631880</p>
 <p align="left>- 😄 Pronouns: He/His</p>
 <p align="left">- ⚡ Fun fact:I know it's crazy but I love to eat</p>
 
