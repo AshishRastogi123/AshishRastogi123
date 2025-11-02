@@ -1,8 +1,4 @@
-
-
-
-
-
+<img src="gif_new.gif">
 <h1 align="center">Hi 👋, I'm Ashish Kumar Rastogi</h1>
 <h3 align="center">Welcome to my Github Profile</h3>
 <p align="left"> - 🔭 I’m currently pursuing my Btech in Electrical Engineering from NIT Jamshedpur</p>
