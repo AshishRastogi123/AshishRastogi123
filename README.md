@@ -1,7 +1,7 @@
 
 
 
-<center><img src="gif_new.gif"></center>
+<p align="center"><img src="gif_new.gif" style="width:100%; height:auto;" ></p>
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Rastogi</h1>
 <h3 align="center">Welcome to my Github Profile</h3>
