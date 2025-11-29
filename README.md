@@ -42,6 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishr1234&" alt="ashishr1234" /></p>
 
-[Download My Resume]([https://github.com/<your-username>/resume/blob/main/resume.pdf])
 
+<a href="https://github.com/AshishRastogi123/AshishRastogi123/blob/main/Ashish_AI.pdf"><h3>Download My Resume</h3></a>
 
