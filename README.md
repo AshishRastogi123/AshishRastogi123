@@ -22,7 +22,7 @@
 ### 🏆 GitHub Trophies (4 Column Clean Layout)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishr1234&theme=tokyonight&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" />
 </p>
 
 
@@ -31,7 +31,7 @@
 ### 📈 Profile Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishr1234&label=Profile%20views&color=0e75b6&style=flat" alt="view-count" />
+  <img src="https://towardsdatascience.com/wp-content/uploads/2020/12/0seusRQCGcbB7aZ60-scaled.jpg" alt="view-count" />
 </p>
 
 <p align="center">
