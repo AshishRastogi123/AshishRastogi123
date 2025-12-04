@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <p align="left">🔭 I’m currently pursuing my Master's in Computer Application from <strong>Invertis University</strong></p>
 <p align="left">🌱 Learning: <strong>Data Analytics, Machine Learning, Deep Learning, AI & Web Development</strong></p>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🏆 GitHub Trophies (4 Column Clean Layout)
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" />
