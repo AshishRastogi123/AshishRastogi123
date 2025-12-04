@@ -22,8 +22,9 @@
 ### 🏆 GitHub Trophies (4 Column Clean Layout)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishr1234&column=4&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishr1234&theme=tokyonight&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
