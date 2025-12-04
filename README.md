@@ -31,20 +31,9 @@
 ### 📈 Profile Stats
 
 <p align="center">
-  <img src="https://towardsdatascience.com/wp-content/uploads/2020/12/0seusRQCGcbB7aZ60-scaled.jpg" alt="view-count" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" alt="view-count" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishr1234&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishr1234&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishr1234&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
