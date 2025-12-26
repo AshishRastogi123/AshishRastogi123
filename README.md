@@ -104,6 +104,6 @@
 ---
 
 ### 📄 Download My Resume  
-<h3><a href="https://github.com/AshishRastogi123/AshishRastogi123/raw/main/Ashish_AI.pdf">📥 Click Here to Download</a></h3>
+<h3><a href="https://github.com/AshishRastogi123/AshishRastogi123/raw/main/Ashish_AI_final.pdf">📥 Click Here to Download</a></h3>
 
 ---
