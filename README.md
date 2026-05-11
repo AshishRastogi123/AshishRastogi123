@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gif_new.gif" width="100%" alt="Banner"/>
+<img src="gif_new.gif" width="400" alt="Banner"/>
 
 # Hi there, I'm Ashish Kumar Rastogi 👋
 
@@ -119,15 +119,17 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishRastogi123/AshishRastogi123/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishRastogi123/AshishRastogi123/output/github-snake.svg"/>
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/AshishRastogi123/AshishRastogi123/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishRastogi123/AshishRastogi123/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishRastogi123/AshishRastogi123/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/AshishRastogi123/AshishRastogi123/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
+
+> ⚙️ **Snake not showing?** You need to set up the GitHub Actions workflow. See instructions below ↓
 
 ---
 
